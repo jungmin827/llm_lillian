@@ -1,0 +1,8 @@
+langchain
+openai
+kiwipiepy
+konlpy
+mecab-python3
+kss
+py-hanspell
+numpy
